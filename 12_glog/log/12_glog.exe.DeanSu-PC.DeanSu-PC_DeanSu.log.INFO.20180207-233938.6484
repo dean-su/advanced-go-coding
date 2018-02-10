@@ -1,0 +1,11 @@
+Log file created at: 2018/02/07 23:39:38
+Running on machine: DeanSu-PC
+Binary: Built with gc go1.9 for windows/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0207 23:39:38.827429    6484 main.go:17] hello, glog
+W0207 23:39:38.942999    6484 main.go:18] warning glog
+E0207 23:39:38.943499    6484 main.go:19] error glog
+I0207 23:39:38.944000    6484 main.go:21] info 1
+W0207 23:39:38.944000    6484 main.go:22] warning 2
+E0207 23:39:38.944000    6484 main.go:23] error 3
+I0207 23:39:38.944000    6484 main.go:28] info with v 0
